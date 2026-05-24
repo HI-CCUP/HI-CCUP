@@ -8,7 +8,7 @@
 
 ---
 
-self-taught developer interested in linux, low-level tooling and frontend experiments
+<p align="center">self-taught developer interested in linux, low-level tooling and frontend experiments</p>p>
 
 ---
 

@@ -23,26 +23,24 @@
 
 ---
 
-<div align="center">
-
-<img align="right" src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="260"/>
-
-</div>
-
 ## currently
+
+<img align="right" src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="180"/>
 
 ```bash
 hiccup@github:~$ sudo pacman -S life
 
 error: target not found: life
+```
 
+<br clear="right"/>
+
+```bash
 > learning react
 > learning bash
 > customizing arch
 > breaking my system
 ```
-
-<br clear="right"/>
 
 ---
 

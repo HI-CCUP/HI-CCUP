@@ -8,14 +8,6 @@
 
 ---
 
-```bash
-user@github:~$ sudo pacman -S life
-
-error: target not found: life
-```
-
----
-
 ## tech
 
 <p align="center">
@@ -31,14 +23,34 @@ error: target not found: life
 
 ---
 
+<table>
+<tr>
+
+<td width="60%">
+
 ## currently
 
 ```bash
+hiccup@github:~$ sudo pacman -S life
+
+error: target not found: life
+
 > learning react
 > learning bash
 > customizing arch
 > breaking my system
 ```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="260"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 

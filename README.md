@@ -43,7 +43,7 @@ error: target not found: life
 ---
 
 <p align="center">
-  <img src="[https://media.tenor.com/4Z7Kptx6A7AAAAAd/bocchi-the-rock-bocchi.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlueXJtNm5saXdmNXZyaGRhbWI3ZWlsODZhOHYyaGZjZWF6Z3NxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gO4WEBNiNtVfo8ewM5/giphy.gif)" width="450"/>
+  <img src="https://media1.tenor.com/m/yR5eiiIcPYoAAAAC/shin-noi.gif" width="450"/>
 </p>
 
 <p align="center">

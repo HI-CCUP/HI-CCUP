@@ -23,10 +23,11 @@
 
 ---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="60%">
+<img align="right" src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="260"/>
+
+</div>
 
 ## currently
 
@@ -41,16 +42,7 @@ error: target not found: life
 > breaking my system
 ```
 
-</td>
-
-<td width="40%">
-
-<img src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="260"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 

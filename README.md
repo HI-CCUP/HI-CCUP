@@ -43,7 +43,7 @@ error: target not found: life
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/yR5eiiIcPYoAAAAC/shin-noi.gif" width="450"/>
+  <img src="https://media1.tenor.com/m/yR5eiiIcPYoAAAAC/shin-noi.gif" width="800"/>
 </p>
 
 <p align="center">

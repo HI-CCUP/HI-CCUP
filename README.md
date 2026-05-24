@@ -8,6 +8,10 @@
 
 ---
 
+self-taught developer interested in linux, low-level tooling and frontend experiments
+
+---
+
 ## tech
 
 <div align="center">
@@ -40,18 +44,8 @@ error: target not found: life
 <br clear="right"/>
 
 ```bash
-> learning react
-> learning bash
-> customizing arch
-> breaking my system
+> building linux tools
+> learning low-level concepts
+> experimenting with react
+> writing small utilities
 ```
-
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/yR5eiiIcPYoAAAAC/shin-noi.gif" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/n9Xl4D4Qf6gAAAAd/chainsaw-man-power.gif" width="700"/>
-</p>

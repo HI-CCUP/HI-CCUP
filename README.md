@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">self-taught developer interested in linux, low-level tooling and frontend experiments</p>
+<p align="center">I'm an IT student passionate about Linux, low-level tooling, and experimental frontend development.</p>
 
 ---
 

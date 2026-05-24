@@ -10,16 +10,16 @@
 
 ## tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,java,cpp,html,css,linux,git,vscode&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,java,cpp,html,css,linux,git,vscode&theme=dark" />
 
-`JavaScript` • `React` • `Java` • `C++` • `HTML` • `CSS`  
-`Linux` • `Git` • `VSCode` • `GIMP`
+<br><br>
 
-</p>
+JavaScript • React • Java • C++ • HTML • CSS  
+Linux • Git • VSCode • GIMP
+
+</div>
 
 ---
 

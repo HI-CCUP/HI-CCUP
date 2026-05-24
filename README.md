@@ -45,3 +45,11 @@ error: target not found: life
 > experimenting with react
 > writing small utilities
 ```
+
+---
+
+---
+
+## interests
+
+`linux` `low-level` `frontend` `cli-tools` `open-source`

@@ -25,8 +25,8 @@ Linux • Git • VSCode • GIMP
 
 ## currently
 
-<img align="right" margin-top="50px" src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="180"/>
-
+<img align="right" src="https://media1.tenor.com/m/iJB_gT1EG_cAAAAd/anime-bubble.gif" width="180"/>
+<br><br><br><br>
 ```bash
 hiccup@github:~$ sudo pacman -S life
 

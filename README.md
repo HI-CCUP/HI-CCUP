@@ -52,4 +52,4 @@ error: target not found: life
 
 ## interests
 
-`linux` • `low-level` • `frontend` • `cli-tools` • `open-source`
+`linux` • `low-level` • `frontend` • `backend` • `cli-tools` • `open-source`

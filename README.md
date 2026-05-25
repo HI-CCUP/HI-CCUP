@@ -17,7 +17,7 @@
 <br><br>
 
 JavaScript • React • Java • C++ • HTML • CSS  
-Linux • Git • VSCode • GIMP
+Linux
 
 </div>
 
